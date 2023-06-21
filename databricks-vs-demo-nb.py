@@ -8,3 +8,7 @@ notebook = 'revised'
 # COMMAND ----------
 
 # MAGIC %run "./utils"
+
+# COMMAND ----------
+
+random_number = get_random_number()
