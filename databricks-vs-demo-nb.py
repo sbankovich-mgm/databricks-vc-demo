@@ -1,6 +1,14 @@
 # Databricks notebook source
-# this is a new notebook!
+# this is a revised notebook!
 
 # COMMAND ----------
 
-notebook = 'new'
+notebook = 'revised'
+
+# COMMAND ----------
+
+# MAGIC %run "./utils"
+
+# COMMAND ----------
+
+random_number = get_random_number()
