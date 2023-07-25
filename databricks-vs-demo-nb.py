@@ -12,3 +12,7 @@ notebook = 'revised'
 # COMMAND ----------
 
 random_number = get_random_number()
+
+# COMMAND ----------
+
+print(random_number)
